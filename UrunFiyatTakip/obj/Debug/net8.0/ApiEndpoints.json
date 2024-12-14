@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "UrunFiyatTakip.Controllers.ValuesController",
+    "Method": "CreateUrun",
+    "RelativePath": "Values/CreateUrun",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "urun",
+        "Type": "UrunFiyatTakip.Entity.Urun",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UrunFiyatTakip.Controllers.ValuesController",
+    "Method": "DeleteUrun",
+    "RelativePath": "Values/DeleteUrun",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "urunId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UrunFiyatTakip.Controllers.ValuesController",
+    "Method": "GetUrun",
+    "RelativePath": "Values/GetUrun",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UrunFiyatTakip.Controllers.ValuesController",
+    "Method": "UpdateUrun",
+    "RelativePath": "Values/UpdateUrun",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "urun",
+        "Type": "UrunFiyatTakip.Entity.Urun",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,6 @@
+@UrunFiyatTakip_HostAddress = http://localhost:5159
+
+GET {{UrunFiyatTakip_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
